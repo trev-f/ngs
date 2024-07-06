@@ -147,6 +147,7 @@ null
 
 # Ignore all nf-test stuff **in main branch only**
 /conf/nf_test.config
+/nf-test.config
 /tests
 
 # Ignore files and scripts that are used only for development
