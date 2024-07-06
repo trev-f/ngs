@@ -145,5 +145,9 @@ null
 /data
 /reports
 
+# Ignore all nf-test stuff **in main branch only**
+/conf/nf_test.config
+/tests
+
 # VSCode
 *.code-workspace
