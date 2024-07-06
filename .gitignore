@@ -149,5 +149,11 @@ null
 /conf/nf_test.config
 /tests
 
+# Ignore files and scripts that are used only for development
+/requirements.txt
+/src/bash/build-params-docs.sh
+/src/bash/convert-schema-to-validation.sh
+/src/bash/convert-validation-to-schema.sh
+
 # VSCode
 *.code-workspace
